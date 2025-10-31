@@ -1,0 +1,3 @@
+[console_scripts]
+headless_turtle = my_turtle_sim.headless_turtle:main
+

@@ -1,0 +1,37 @@
+[2.942s] Invoking command in '/home/agro/ROS2/src/my_turtle_sim': PYTHONPATH=/home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_turtle_sim build --build-base /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/build install --record /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/install.log --single-version-externally-managed install_data
+[3.529s] running egg_info
+[3.530s] creating build/my_turtle_sim/my_turtle_sim.egg-info
+[3.530s] writing build/my_turtle_sim/my_turtle_sim.egg-info/PKG-INFO
+[3.531s] writing dependency_links to build/my_turtle_sim/my_turtle_sim.egg-info/dependency_links.txt
+[3.531s] writing entry points to build/my_turtle_sim/my_turtle_sim.egg-info/entry_points.txt
+[3.531s] writing requirements to build/my_turtle_sim/my_turtle_sim.egg-info/requires.txt
+[3.531s] writing top-level names to build/my_turtle_sim/my_turtle_sim.egg-info/top_level.txt
+[3.532s] writing manifest file 'build/my_turtle_sim/my_turtle_sim.egg-info/SOURCES.txt'
+[3.535s] reading manifest file 'build/my_turtle_sim/my_turtle_sim.egg-info/SOURCES.txt'
+[3.535s] writing manifest file 'build/my_turtle_sim/my_turtle_sim.egg-info/SOURCES.txt'
+[3.536s] running build
+[3.536s] running build_py
+[3.536s] creating /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/build
+[3.536s] creating /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/build/lib
+[3.536s] creating /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/build/lib/my_turtle_sim
+[3.536s] copying my_turtle_sim/headless_turtle.py -> /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/build/lib/my_turtle_sim
+[3.536s] copying my_turtle_sim/__init__.py -> /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/build/lib/my_turtle_sim
+[3.536s] running install
+[3.537s] running install_lib
+[3.537s] creating /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/lib/python3.10/site-packages/my_turtle_sim
+[3.537s] copying /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/build/lib/my_turtle_sim/headless_turtle.py -> /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/lib/python3.10/site-packages/my_turtle_sim
+[3.538s] copying /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/build/lib/my_turtle_sim/__init__.py -> /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/lib/python3.10/site-packages/my_turtle_sim
+[3.538s] byte-compiling /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/lib/python3.10/site-packages/my_turtle_sim/headless_turtle.py to headless_turtle.cpython-310.pyc
+[3.539s] byte-compiling /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/lib/python3.10/site-packages/my_turtle_sim/__init__.py to __init__.cpython-310.pyc
+[3.539s] running install_data
+[3.539s] creating /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/share/ament_index
+[3.539s] creating /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/share/ament_index/resource_index
+[3.539s] creating /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/share/ament_index/resource_index/packages
+[3.539s] copying resource/my_turtle_sim -> /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/share/ament_index/resource_index/packages
+[3.539s] copying package.xml -> /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/share/my_turtle_sim
+[3.540s] running install_egg_info
+[3.543s] Copying build/my_turtle_sim/my_turtle_sim.egg-info to /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/lib/python3.10/site-packages/my_turtle_sim-0.0.0-py3.10.egg-info
+[3.544s] running install_scripts
+[3.573s] Installing headless_turtle script to /home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/lib/my_turtle_sim
+[3.574s] writing list of installed files to '/home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/install.log'
+[3.613s] Invoked command in '/home/agro/ROS2/src/my_turtle_sim' returned '0': PYTHONPATH=/home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/agro/ROS2/src/my_turtle_sim/install/my_turtle_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_turtle_sim build --build-base /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/build install --record /home/agro/ROS2/src/my_turtle_sim/build/my_turtle_sim/install.log --single-version-externally-managed install_data
